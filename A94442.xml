@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the high and Honourable Court of Parliament. The nobility, knights, gentry, ministers, freeholders, and inhabitants, of the county of Surrey, whose names are subscribed in the severall schedules hereunto annexed.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94442</idno><idno type="EEBO-CITATION">99859765</idno>
+  <idno type="VID">156770</idno>
+  <idno type="EEBO-PROQUEST">2240891594</idno>
+  
+            <idno type="STC">Wing T1397</idno>
+            <idno type="STC">Thomason E151_11</idno>
+            <idno type="STC">ESTC R14932</idno>
+            <idno type="PROQUEST">99859765</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859765e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94442)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156770)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E151[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the high and Honourable Court of Parliament. The nobility, knights, gentry, ministers, freeholders, and inhabitants, of the county of Surrey, whose names are subscribed in the severall schedules hereunto annexed.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Against the nonconformists.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dissenters, Religious --  England --  Surrey --  Early works to 1800.</term>
+               <term type="geographic_name">Surrey (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:156770:1"/>
+            <head>TO THE HIGH <hi>AND</hi> HONOVRABLE COVRT OF PARLIAMENT.</head>
+            <head type="sub">The Nobility, Knights, Gentry, Ministers, Freeholders, and Inhabitants, of the County of <hi>SURREY,</hi> whose names are subscribed in the severall Schedules hereunto annexed.</head>
+            <opener>SHEW,</opener>
+            <p>THat the strong confidence, which we have justly con<g ref="char:EOLhyphen"/>ceived of the great wisdome, and impartiall judge<g ref="char:EOLhyphen"/>ment of this most high and supreame Court, together with that solid and stable foundation, upon which we under<g ref="char:EOLhyphen"/>stand <hi>Episcopacie</hi> to be built, hath caused us hitherto to esteeme it, either so sacred, that it should not be attempted, or so strong and impregnable, that it could not bee overthrowne by any Christian force, But the continuall and lowd cries, and the violent assaults that are made against it, especially by those of our owne vicinitie and neighbourhood, hath awakened our
+<pb n="2" facs="tcp:156770:2"/>Care and Jealousie, for the quiet and safety of this Church and Common-wealth, wherein our selves have share and interest, And we reckon it our duty, by our humble Petition unto this grave and honourable Senate, to withstand (if it may be) their inconsiderate and dangerous endeavours, Or at least to testifie before God and the whole Christian world, how far we are, either by approbation or silence, from giving the least conni<g ref="char:EOLhyphen"/>vence or assent unto the abolishing of that so well established and long approved Government.</p>
+            <p>
+               <hi>We therefore become most humble and earnest Petitioners unto this Honourable Court, that you would be pleased to take into your most deepe and religious considerations, those inconveniences and mischiefes, which, besides many other, we doe greatly feare would ensue, if that this Ecclesiasticall Government should be overthrowne.</hi>
+            </p>
+            <p>First, what apparent cause of insultation and triumph would be given unto our Adversaries of the Roman party, against whom we have hitherto had just cause of glorying in this Re<g ref="char:EOLhyphen"/>ligious boasting, that both our Doctrine and Government, have been first and principally authorised by the divine and heavenly Sentence of the holy Scripture, and have had the ful approbation and testimony of the most pure and incorrupt times of the Primitive Church. With what face or counte<g ref="char:EOLhyphen"/>nance shall we now looke upon them, if we shall at once cast off, as altogether polluted and Antichristian, that <hi>Hierarchie,</hi> that Sacred and Apostolicall Government, which not onely our selves have avouched and maintained unto the whole world, but hath beene held in so much veneration and honor, by so many Councels Oecumenicall and Nationall, so many holy and learned Fathers, so many glorious &amp; constant Mar<g ref="char:EOLhyphen"/>tyrs and Confessors, and in a manner by the whole Assembly of Christian people, for the space of 1500. yeares.</p>
+            <pb n="3" facs="tcp:156770:2"/>
+            <p>Secondly, what hurt and heart-breaking discouragement it may prove unto those, that have carefully deported them<g ref="char:EOLhyphen"/>selves, as the dutifull and quiet children of the Church, if they shall receive, as a reward of their peaceable and discreet beha<g ref="char:EOLhyphen"/>viour, bitter reproach and scorne, of which they have alrea<g ref="char:EOLhyphen"/>dy tasted in too great a measure, and doe still expect a greater burthen to be laid on their shoulders, especially by those who doe now plainely manifest, that they have formerly entertai<g ref="char:EOLhyphen"/>ned a secret hatred and grudge against that Government, unto which by their outward semblance, and by the subscription of their hands, they have for their present advantage fraudu<g ref="char:EOLhyphen"/>lently yeelded attestation and consent.</p>
+            <p>Thirdly, what amazement and distraction it will cause a<g ref="char:EOLhyphen"/>mongst quiet, religious and well-affected people, when they shall heare that Discipline &amp; Government, which now for the space of about an hundred yeares, since our first happy delive<g ref="char:EOLhyphen"/>rance from Popish Idolatry and Superstition, hath beene by the most religious and learned Clergy, by Preaching and Writing and ikewise by the Lawes and Authority of this Kingdome, both Civill and Ecclesiastical, publikely and con<g ref="char:EOLhyphen"/>stantly approved, taught and enjoyned, as most Soveraigne and Apostolicall; now by the same voice and authority to be cried downe, rejected and troden under foote, as pestilent, An<g ref="char:EOLhyphen"/>tichristian, and intollerable, what dangerous conclusions weake mindes may draw out of such premisses, we referre it unto the religious care of this Honourable Court to ponder and advise.</p>
+            <p>Fourthly, what a pile of fewell will be heereby admini<g ref="char:EOLhyphen"/>stred, and cast into the flame of their intemperate zeale, that stand Schismatically, and Anabaptistically affected (of which sort we feare there are in this Kingdome too great a number) And whether their fary may not, with the like confidence,
+<pb n="4" facs="tcp:156770:3"/>presume to oppose whatsoever new forme of Government may be introduced, hoping with much facility to prevaile a<g ref="char:EOLhyphen"/>gainst a green unsetled wall, by the same Engines, wherewith they shall give the overthrow unto so ancient and firm a Stru<g ref="char:EOLhyphen"/>cture, whole Foundation hath been laid by the skilfull hands of the greatest Architects, and Master-builders of the Chri<g ref="char:EOLhyphen"/>stian World; And whether their unexpected successe against the Ecclesiasticall, may not embolden them to give the like furious onset, and assault, against the Secular and Civill Power.</p>
+            <p>Lastly, how open and large a Field will be ready, and pre<g ref="char:EOLhyphen"/>pared to be sowne with the seed of implacable hatred and dis<g ref="char:EOLhyphen"/>cord, when among so many darke, and intricate disputes a<g ref="char:EOLhyphen"/>bout Gods eternall Decrees, and Purposes, and other pro<g ref="char:EOLhyphen"/>found misteries of our Christian Religion (that have been e<g ref="char:EOLhyphen"/>steemed by the Ancient, as the bones of the Pascall Lambe, that might not be broken) it shall be free for every man (for want of Ecclesiasticall Authority to restraine, or judgement to discern of those inscrutable secrets) guided by no other rule then the crooked line of his own discretion, in the open and publike Assembly, to cast forth such doubts and questions, as may prove a snare and torture unto the weake, and a bone of perpetuall contention unto the proud, and obstinate, When now the Episcopall authority being removed, there shall re<g ref="char:EOLhyphen"/>maine no other Ecclesiasticall power to restraine, and deter<g ref="char:EOLhyphen"/>mine, these and such like questions, but by Suffrage, and <hi>Ma<g ref="char:EOLhyphen"/>jor</hi> part of voyces: We humbly propound it unto the calmest and deepest Wisdome of this noble Senat to judge, whether or no, it may not only be possible, but very probable too, that the more vehement, and Popular part, overswaying the more temperate, and soberly learned, the matter may arise unto that height, that either the truth may bee deserted, and the Consciences of men left upon the rack, or the contention and
+<pb n="5" facs="tcp:156770:3"/>tumult wax so great, as may cause the whole Church and Kingdome, not onely to sigh and groane, but to bee put into great hazard of sinking under so great a burthen.</p>
+            <p>
+               <hi>We therefore most humbly crave, and importunatly begg, of this Honourable Senate, that you would bee pleased, so to take off that Rust, which by long course of time hath cleaved unto the Brazen Pillars of our Temple, as that you enter<g ref="char:EOLhyphen"/>taine not within your blessed and Christian hearts, the least thought, or imagination of taking away this ancient and necessary Supporters of this Sacred Building, by gi<g ref="char:EOLhyphen"/>ving way to the overthrow of that Government, which the holy Spirit of God hath approved, and his Almigh<g ref="char:EOLhyphen"/>tie arme hath hitherto protected, and wee trust, at this time hath advanced you, of this noble Senate, unto these Honorable Seats, to make you his most happy Instruments, after the Example of your blessed Ancestors, in the time of Queene <hi>ELIZABETH,</hi> of happy memory, to shield and defend it against unreasonable Admonitions, Petitions, Supplications, and all Incursions whatsoever of Innovation, and Schisme, that may assault it.</hi>
+            </p>
+            <closer>And as bound we shall forever pray, &amp;c.</closer>
+         </div>
+         <div type="petition">
+            <pb n="6" facs="tcp:156770:4"/>
+            <head>To the Right Honourable the Lords as<g ref="char:EOLhyphen"/>sembled in his Majesties high Court of PARLIAMENT. ALSO To the honourable House of Commons, there likewise Assembled.</head>
+            <head type="sub">The humble Petition of the Inhabitants of the Burrough of <hi>Southwarke,</hi> and other places neere adjacent, being all true Protestants.</head>
+            <opener>Humbly Sheweth</opener>
+            <p>THat whereas we have of late received a Protestation from this most Honourable House, to maintaine the Protestant Religion established, and in all godly sub<g ref="char:EOLhyphen"/>mission have taken the same Protestation, to maintaine the the same Religion, which we understand to be the same, that was by King <hi>Edw.</hi> 6. of famous memory, refined and refor<g ref="char:EOLhyphen"/>med from Popery, and established by him, and the Parliament in his time. Then afterwards persecuted by the Papists in the Raigne of Queen <hi>Mary,</hi> and againe by the great mercy and goodnes of God re-established by Queen <hi>Elizabeth</hi> of blessed memory, and by the Parliaments in her time, as appeareth by the Acts and Monuments of the Church, and the Acts and Statutes of the Realme, and since continued by King <hi>Iames</hi> of most worthy memory for his great Learning and Piety, as also by our now most gracious Soveraign Lord King <hi>Charles,</hi> and the whole state for ought we know to the contrary.</p>
+            <p>Neverthelesse are we grievously offended by the insolent carriage of many Preachers and Lay-people in their Prayers, Sermons, discourses and actions, some calling the Doctrine and discipline of our Church cursed, others refusing to reade
+<pb n="7" facs="tcp:156770:4"/>the Booke of Common prayer, enjoyned by Statute, others calling it. Popish, others behaving themselves most unreve<g ref="char:EOLhyphen"/>rently at those prayers, or standing without the Church till they be done, refusing to joyn with the Congregation, in those prayers. Besides some wil not bring their Children to Church to be baptized, others will not kneele at receiving the holy Communion, but some will stand, some sit, others refuse to have their dead buried in the common way of our christian buriall; Women refuse to give God thankes for delivery in Childbed as is appointed. Some Preachers will not use the Lords Prayer at all &amp; yet wil call fasts publikely without au<g ref="char:EOLhyphen"/>thority. And our Ministers who by the Statute are bound to use the forme of the Booke of Common prayer, and no other, together with those Rites there enjoyned, are for making con<g ref="char:EOLhyphen"/>science to obey the Statutes, mocked and abused by base terms in the Church, and in the Streets, nay some have been threat<g ref="char:EOLhyphen"/>ned so that they dare not weare their Ministeriall garments, nor vse the formes of Service by Law prescribed. And our an<g ref="char:EOLhyphen"/>cient Vestry men, who were wont to keepe their Parishes in good order, are contemned any abused by a rude company of young, poore, and vnworthy fellowes; Which disorders have bred great scandall and distractions among all true hearted Subjects and Protestants, and much griefe (we veri<g ref="char:EOLhyphen"/>ly beleeve) to every one save Papists and Schismatickes, who make a sport at Gods dishonour, and this our Church of <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> troubles.</p>
+            <p>In consideration whereof we most humbly desire that till things be otherwise established by Act of this most high and honourable Court, we may have some pecu<g ref="char:EOLhyphen"/>liar order, for redresse of these tumults and distractions among us from both Houses, combustions may bee prevented (which else may justly be feared.) And all of us may quietly and comfortably meet together in
+<pb n="8" facs="tcp:156770:5"/>the Churches to serve God vnanimously and vniform<g ref="char:EOLhyphen"/>ly as Gods word doth teach us, and the Statutes of the Kingdome enjoyne us,</p>
+            <p>
+               <hi>And we shall be ever bound, and will daily pray for the happie successe of your honourable proceedings, as becommeth all good men, and us your Honours humble Petitioners.</hi>
+            </p>
+            <p>Subscribed by all the Knights, Iustices of the Peace, and Gentlemen, and Freeholders at the quarter Sessions, for the County of <hi>Surrey,</hi> and after by the chiefe Inha<g ref="char:EOLhyphen"/>bitants of the Borough of <hi>Southwarke,</hi> and the parts adjacent, in which Borough, and adjacent parts, be<g ref="char:EOLhyphen"/>sides other parts of the whole County did Subscribe, <hi>Knights,</hi> 13. <hi>Esquires,</hi> 15. <hi>Divines,</hi> 18. <hi>Gentlemen, Freeholders, and others of good account.</hi> 382.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
